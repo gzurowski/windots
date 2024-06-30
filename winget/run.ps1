@@ -1,4 +1,5 @@
 winget install --exact --id AndreWiethoff.ExactAudioCopy
+winget install --exact --id waterlan.dos2unix
 winget install --exact --id Git.Git
 winget install --exact --id GuinpinSoft.MakeMKV
 winget install --exact --id Mp3tag.Mp3tag
