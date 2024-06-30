@@ -5,3 +5,4 @@ winget install --exact --id GuinpinSoft.MakeMKV
 winget install --exact --id Mp3tag.Mp3tag
 winget install --exact --id Python.Python.3.10
 winget install --exact --id RHash.RHash
+winget install --exact --id CodeSector.TeraCopy
