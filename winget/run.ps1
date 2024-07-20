@@ -1,4 +1,5 @@
 winget install --exact --id AndreWiethoff.ExactAudioCopy
+winget install --exact --id EclipseAdoptium.Temurin.8.JRE
 winget install --exact --id waterlan.dos2unix
 winget install --exact --id Git.Git
 winget install --exact --id GuinpinSoft.MakeMKV
